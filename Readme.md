@@ -1,5 +1,5 @@
 <h3 align="center"> ¡Hola mundo! <img src="https://media.giphy.com/media/fAhZm10htd8TrQO6le/giphy.gif" width="55"></h3>
-<p  align="center"><img align="center" width="800" alt="ProfileGitHub" src="https://i.postimg.cc/N091yGq5/White-Blue-Simple-Watercolor-Linkedin-Banner-3.gif"></p>
+<p  align="center"><img align="center" width="800" alt="ProfileGitHub" src="https://i.postimg.cc/ydfcQCYc/White-Blue-Simple-Watercolor-Linkedin-Banner-4.gif"></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%36BCF7FF&amp;center=true&amp;vCenter=true&amp;lines=Front-End+Developer.;Ing.+en+Sistemas+Computacionales.;Siempre+Aprendiendo." alt="Typing SVG">
