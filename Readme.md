@@ -41,7 +41,7 @@ El poder ejercer mi carrera haciendo algo que realmente me gusta es un regalo, m
 </p>
 <br>
 
-<!-- # <h2 align="center"> Github Stats (Expande para ver) <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> 
+# <h2 align="center"> Github Stats (Expande para ver) <img alt="cat" src="https://media.giphy.com/media/RYYcIqEj5pR2Ro8luH/giphy.gif" width="40" title="cat"/> 
 </h2>
 <details> 
   <summary><b> GitHub Profile Stats </b></summary>
@@ -51,7 +51,7 @@ El poder ejercer mi carrera haciendo algo que realmente me gusta es un regalo, m
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maggie-sarmiento&show_icons=true&locale=en" alt="maggie-sarmiento" /></p>
 
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maggie-sarmiento&" alt="maggie-sarmiento" /></p>
-</details> -->
+</details>
 
 # <h2 align="center"> Contactame: <img alt="cat contact" src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="40" title="cat contact"/> 
 </h2>
